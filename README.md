@@ -1,2 +1,2 @@
-# daylaUVU.github.oi
+# daylaUVU.github.io
 Web Page Project
